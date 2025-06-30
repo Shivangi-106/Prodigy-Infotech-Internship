@@ -2,12 +2,11 @@
 
 | Task | Branch | Description |
 |------|--------|-------------|
-| ✅ Task 1 – Population Data Visualization | [task-01](https://github.com/Shivangi-106/Prodigy-Infotech-Internship/tree/Prodigy_DS_01) | Created charts using Python (Matplotlib, Seaborn) |
-| ✅ Task 2 – EDA analysis | [task-02](https://github.com/Shivangi-106/Prodigy-Infotech-Internship/tree/Prodigy_DS_02) | Classification using Logistic Regression |
-| ✅ Task 3 – Bank addition(Will user purchase or not) | [task-03](https://github.com/Shivangi-106/Prodigy-Infotech-Internship/tree/Prodigy_DS_03) | Linear Regression model on Boston data |
-| ✅ Task 4 – Sentiment analysis | [task-04](https://github.com/Shivangi-106/Prodigy-Infotech-Internship/tree/Prodigy_DS_04) | NLP with Naive Bayes |
-| ✅ Task 5 – Analyze Traffic accident | [task-05](https://github.com/Shivangi-106/Prodigy-Infotech-Internship/tree/Prodigy_DS_05) | VADER sentiment polarity model |
-
+| ✅ Task 1 – Population Data Visualization | [task-01](https://github.com/Shivangi-106/Prodigy-Infotech-Internship/tree/Prodigy_DS_01) |Created bar charts and histograms to visualize the distribution of age and gender data using World Bank statistics. |
+| ✅ Task 2 – Titanic Data Cleaning & EDA | [task-02](https://github.com/Shivangi-106/Prodigy-Infotech-Internship/tree/Prodigy_DS_02) | Performed extensive data cleaning and exploratory analysis on the Titanic dataset to explore survival patterns and relationships. |
+| ✅ Task 3 – Customer Purchase Prediction | [task-03](https://github.com/Shivangi-106/Prodigy-Infotech-Internship/tree/Prodigy_DS_03) | Built a decision tree classifier on UCI Bank Marketing data to predict product subscription based on customer demographics and behavior. |
+| ✅ Task 4 – Twitter Sentiment analysis | [task-04](https://github.com/Shivangi-106/Prodigy-Infotech-Internship/tree/Prodigy_DS_04) | Analyzed social media sentiment from tweets to understand public opinion using entity-level sentiment classification. |
+| ✅ Task 5 – Traffic Accident Pattern Analysis | [task-05](https://github.com/Shivangi-106/Prodigy-Infotech-Internship/tree/Prodigy_DS_05) | Explored and visualized US traffic accident data to identify accident hotspots and contributing factors like weather and time of day. |
 📄 [Internship Report](internship_report.md)
 
 
