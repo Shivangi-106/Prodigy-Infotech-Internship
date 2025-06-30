@@ -2,11 +2,11 @@
 
 | Task | Branch | Description |
 |------|--------|-------------|
-| ✅ Task 1 – Data Visualization | [task-01](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME/tree/task-01) | Created charts using Python (Matplotlib, Seaborn) |
-| ✅ Task 2 – Titanic Survival ML | [task-02](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME/tree/task-02) | Classification using Logistic Regression |
-| ✅ Task 3 – House Price Predictor | [task-03](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME/tree/task-03) | Linear Regression model on Boston data |
-| ✅ Task 4 – Spam Email Detection | [task-04](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME/tree/task-04) | NLP with Naive Bayes |
-| ✅ Task 5 – Sentiment Analysis | [task-05](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME/tree/task-05) | VADER sentiment polarity model |
+| ✅ Task 1 – Population Data Visualization | [task-01](https://github.com/Shivangi-106/Prodigy-Infotech-Internship/tree/Prodigy_DS_01) | Created charts using Python (Matplotlib, Seaborn) |
+| ✅ Task 2 – EDA analysis | [task-02](https://github.com/Shivangi-106/Prodigy-Infotech-Internship/tree/Prodigy_DS_02) | Classification using Logistic Regression |
+| ✅ Task 3 – Bank addition(Will user purchase or not) | [task-03](https://github.com/Shivangi-106/Prodigy-Infotech-Internship/tree/Prodigy_DS_03) | Linear Regression model on Boston data |
+| ✅ Task 4 – Sentiment analysis | [task-04](https://github.com/Shivangi-106/Prodigy-Infotech-Internship/tree/Prodigy_DS_04) | NLP with Naive Bayes |
+| ✅ Task 5 – Analyze Traffic accident | [task-05](https://github.com/Shivangi-106/Prodigy-Infotech-Internship/tree/Prodigy_DS_05) | VADER sentiment polarity model |
 
 📄 [Internship Report](internship_report.md)
 
